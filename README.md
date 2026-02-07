@@ -56,3 +56,21 @@ Sample analytical queries are included to demonstrate:
 - Writing ETL logic using SQL
 - Designing star schemas
 - Performing analytical queries
+  
+---
+
+## 🛡️ License
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and share this project with proper attribution.
+
+---
+
+## 🌟 About Me
+Hi! I'm **M K M Pehesara**, an undergraduate Computer Science student with a strong interest in **data engineering, SQL, and system design**.
+
+This project is part of my learning journey to understand how real-world **data warehouses** are designed and built using **SQL-only approaches**, focusing on data modeling, transformations, and analytics-ready architectures.
+
+I'm continuously learning and building projects to strengthen my foundations in software engineering and data systems.
+
+Feel free to connect with me and check out my work!
+
